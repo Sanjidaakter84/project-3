@@ -1,0 +1,35 @@
+.header{
+	min-height: 50px;
+	background-color: #2e00ff8f;
+	text-align: center;
+	font-size:80px}
+	h1{
+		background-color: blue;
+		text-align:center;
+	}
+.container{ 
+		border: 10px solid #ab47bc;
+		overflow: hidden;
+}
+.contact{ 
+	background-color:#2196f3b3;
+	font-size: 15px;
+	float: left;
+	width: 30%;
+	min-height:50px;border:10px;
+}
+.blog{
+	background-color: #35fd5399;
+	font-size:20px;
+	float: right;
+	width: 70%;border: 10px;
+}
+.footer{
+	min-height: 60px;
+	background-color: black;
+	clear: both;
+}
+a{
+	color: yellow;
+	text-align: center;
+}
